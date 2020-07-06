@@ -1,0 +1,6 @@
+﻿
+Update-Database
+
+
+Scaffold-DbContext "Server=25.95.117.127, 45682;Database=InventoryManagementSys;User Id=admin;password=Admin123;Trusted_Connection=false;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DAL -Force
+
