@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\art_i\\source\\repos\\Inventory-management-sys\\InventoryManagementSys\\InventoryManagementSys.csproj": {}
+    "C:\\Users\\DJ\\Source\\Repos\\Inventory-management-sys\\InventoryManagementSys\\InventoryManagementSys.csproj": {}
   },
   "projects": {
-    "C:\\Users\\art_i\\source\\repos\\Inventory-management-sys\\InventoryManagementSys\\InventoryManagementSys.csproj": {
+    "C:\\Users\\DJ\\Source\\Repos\\Inventory-management-sys\\InventoryManagementSys\\InventoryManagementSys.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\art_i\\source\\repos\\Inventory-management-sys\\InventoryManagementSys\\InventoryManagementSys.csproj",
+        "projectUniqueName": "C:\\Users\\DJ\\Source\\Repos\\Inventory-management-sys\\InventoryManagementSys\\InventoryManagementSys.csproj",
         "projectName": "InventoryManagementSys",
-        "projectPath": "C:\\Users\\art_i\\source\\repos\\Inventory-management-sys\\InventoryManagementSys\\InventoryManagementSys.csproj",
-        "packagesPath": "C:\\Users\\art_i\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\art_i\\source\\repos\\Inventory-management-sys\\InventoryManagementSys\\obj\\",
+        "projectPath": "C:\\Users\\DJ\\Source\\Repos\\Inventory-management-sys\\InventoryManagementSys\\InventoryManagementSys.csproj",
+        "packagesPath": "C:\\Users\\DJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DJ\\Source\\Repos\\Inventory-management-sys\\InventoryManagementSys\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\art_i\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

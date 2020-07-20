@@ -15,12 +15,6 @@ namespace InventoryManagementSys.Areas.Identity
         public void Configure(IWebHostBuilder builder)
         {
             builder.ConfigureServices((context, services) => {
-                services.AddDbContext<InventoryManagementSysContext>(options =>
-                    options.UseSqlServer(
-                        context.Configuration.GetConnectionString("InventoryManagementSysContextConnection")));
-
-                services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
-                    .AddEntityFrameworkStores<InventoryManagementSysContext>();
             });
         }
     }
