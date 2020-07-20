@@ -1,6 +1,8 @@
 ﻿
 Update-Database
 
-
+//When we only change one table in the database then we use -force
 Scaffold-DbContext "Server=25.95.117.127, 45682;Database=InventoryManagementSys;User Id=admin;password=Admin123;Trusted_Connection=false;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DAL -Force
 
+//When we want to create the tables from scratch
+Scaffold-DbContext "Server=25.95.117.127, 45682;Database=InventoryManagementSys;User Id=admin;password=Admin123;Trusted_Connection=false;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir DAL
